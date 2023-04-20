@@ -1,0 +1,18 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":
+  [
+    "pdp",
+    "eae",
+    "pep"
+  ],
+  "key": {
+    "p": {"item": "ender_pearl"},
+    "e": {"item": "ender_eye"},
+    "d": {"item": "dragon_breath"},
+    "a": {"item": "dragon_egg"}
+  },
+  "result": {
+    "item": "morerecord:tall_remix"
+  }
+}

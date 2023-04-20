@@ -1,0 +1,17 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":
+  [
+    "bsb",
+    "srs",
+    "bsb"
+  ],
+  "key": {
+    "r": {"tag": "minecraft:music_discs"},
+    "s": {"item": "minecraft:stick"},
+    "b": {"item": "minecraft:bamboo"}
+  },
+  "result": {
+    "item": "morerecord:bamboo_dream"
+  }
+}

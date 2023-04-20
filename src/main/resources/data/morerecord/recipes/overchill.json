@@ -1,0 +1,19 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ppp",
+    "bab",
+    "isi"
+  ],
+  "key": {
+    "i": {"item": "minecraft:ice"},
+    "b": {"item": "minecraft:blue_ice"},
+    "p": {"item": "minecraft:packed_ice"},
+    "s": {"item": "minecraft:snow_block"},
+    "a": {"item": "minecraft:snowball"}
+  },
+  "result": {
+    "item": "morerecord:overchill"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "morerecord",
+  "version": "${version}",
+  "name": "MoreRecord",
+  "description": "",
+  "authors": ["Fanzhitianyu","shining_dirt"],
+  "contact": {
+    "repo": "https://github.com/Fanzhitianyu"
+  },
+  "license": "MIT",
+  "icon": "logo.jpg",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "fanzhitianyu.morerecord.MoreRecord"
+    ]
+  },
+  "mixins": [
+    "MoreRecord.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

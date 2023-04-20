@@ -1,0 +1,51 @@
+{
+  "music.bamboo_dream": {
+    "subtitle": "subtitles.morerecord.music.bamboo_dream",
+    "sounds": [
+      "morerecord:bamboo_dream"
+    ]
+  },
+  "music.endseeker": {
+    "subtitle": "subtitles.morerecord.music.endseeker",
+    "sounds": [
+      "morerecord:endseeker"
+    ]
+  },
+  "music.overchill": {
+    "subtitle": "subtitles.morerecord.music.overchill",
+    "sounds": [
+      "morerecord:overchill"
+    ]
+  },
+  "music.shock": {
+    "subtitle": "subtitles.morerecord.music.shock",
+    "sounds": [
+      "morerecord:shock"
+    ]
+  },
+  "music.shriker": {
+    "subtitle": "subtitles.morerecord.music.shriker",
+    "sounds": [
+      "morerecord:shriker"
+    ]
+  },
+  "music.soulless": {
+    "subtitle": "subtitles.morerecord.music.soulless",
+    "sounds": [
+      "morerecord:soulless"
+    ]
+  },
+  "music.tall_remix": {
+    "subtitle": "subtitles.morerecord.music.tall_remix",
+    "sounds": [
+      "morerecord:tall_remix"
+    ]
+  },
+  "music.weird_realm": {
+    "subtitle": "subtitles.morerecord.music.weird_realm",
+    "sounds": [
+      "morerecord:weird_realm"
+    ]
+  }
+
+}
