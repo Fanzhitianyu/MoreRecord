@@ -1,0 +1,23 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":
+  [
+    "gfb",
+    "trs",
+    "dom"
+  ],
+  "key": {
+    "r": {"tag": "minecraft:music_discs"},
+    "g": {"item": "minecraft:grass"},
+    "f": {"item": "minecraft:fern"},
+    "v": {"item": "minecraft:vine"},
+    "t": {"item": "minecraft:twisting_vines"},
+    "s": {"item": "minecraft:glowstone_dust"},
+    "d": {"item": "minecraft:dirt"},
+    "o": {"item": "minecraft:cobblestone"},
+    "m": {"item": "minecraft:diamond"}
+  },
+  "result": {
+    "item": "morerecord:weird_realm"
+  }
+}

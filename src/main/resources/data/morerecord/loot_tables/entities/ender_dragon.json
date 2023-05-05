@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls":1,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "conditions": [
+            {
+              "condition":"minecraft:killed_by_player",
+              "inverted": "true"
+            }
+          ],
+          "name": "minecraft:gunpowder",
+          "quality": 0,
+          "type": "minecraft:item",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}
