@@ -3,6 +3,7 @@ package fanzhitianyu.morerecord;
 import net.fabricmc.api.ModInitializer;
 import fanzhitianyu.morerecord.Item.*;
 
+
 public class MoreRecord implements ModInitializer
 {
     public static final String MODNAME="MoreRecord";
