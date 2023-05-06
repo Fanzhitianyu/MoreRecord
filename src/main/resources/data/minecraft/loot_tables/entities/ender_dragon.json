@@ -12,11 +12,22 @@
               "inverted": "true"
             }
           ],
-          "name": "minecraft:gunpowder",
+          "name": "morerecord:endseeker",
           "quality": 0,
           "type": "minecraft:item",
           "weight": 1
+        },{
+          "conditions": [
+            {
+              "condition":"minecraft:killed_by_player",
+              "inverted": "true"
+            }
+          ],
+          "quality": 0,
+          "type": "minecraft:empty",
+          "weight": 99
         }
+
       ]
     }
   ]

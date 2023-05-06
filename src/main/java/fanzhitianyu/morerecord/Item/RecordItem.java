@@ -25,3 +25,15 @@ public class RecordItem
     public static void RegisterItem()
     {}
 }
+
+/*
+shock是击杀凋零掉率1/50
+ weird realm配方是
+草 蕨 藤蔓
+缠远藤 任意唱片 萤石
+泥土 圆石 钻石
+（md这个配方怎么这么诡异）
+shrieker是骷髅击杀铁傀儡
+soulless是骷髅击杀烈焰人
+endseeker是击杀末影龙，爆率1/100
+*/

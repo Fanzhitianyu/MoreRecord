@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "conditions": [{
+              "condition":"minecraft:killed_by_player",
+              "inverted": "true"
+            }],
+          "type": "minecraft:item",
+          "name": "morerecord:shock",
+          "expand": true,
+          "weight": 1
+        },
+        {
+          "conditions": [{
+            "condition":"minecraft:killed_by_player",
+            "inverted": "true"
+          }],
+          "type": "minecraft:empty",
+          "expand": true,
+          "weight": 49
+        }
+      ]
+    }
+  ]
+}
